@@ -1,0 +1,15 @@
+D:\Обучение IT\1 четверть\5.Знакомство с языками программирования\1.Лекция 1. Знакомство с языком программирования C#\examples\example002_helloUser\bin\Debug\net6.0\example002_helloUser.exe
+D:\Обучение IT\1 четверть\5.Знакомство с языками программирования\1.Лекция 1. Знакомство с языком программирования C#\examples\example002_helloUser\bin\Debug\net6.0\example002_helloUser.deps.json
+D:\Обучение IT\1 четверть\5.Знакомство с языками программирования\1.Лекция 1. Знакомство с языком программирования C#\examples\example002_helloUser\bin\Debug\net6.0\example002_helloUser.runtimeconfig.json
+D:\Обучение IT\1 четверть\5.Знакомство с языками программирования\1.Лекция 1. Знакомство с языком программирования C#\examples\example002_helloUser\bin\Debug\net6.0\example002_helloUser.dll
+D:\Обучение IT\1 четверть\5.Знакомство с языками программирования\1.Лекция 1. Знакомство с языком программирования C#\examples\example002_helloUser\bin\Debug\net6.0\example002_helloUser.pdb
+D:\Обучение IT\1 четверть\5.Знакомство с языками программирования\1.Лекция 1. Знакомство с языком программирования C#\examples\example002_helloUser\obj\Debug\net6.0\example002_helloUser.csproj.AssemblyReference.cache
+D:\Обучение IT\1 четверть\5.Знакомство с языками программирования\1.Лекция 1. Знакомство с языком программирования C#\examples\example002_helloUser\obj\Debug\net6.0\example002_helloUser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение IT\1 четверть\5.Знакомство с языками программирования\1.Лекция 1. Знакомство с языком программирования C#\examples\example002_helloUser\obj\Debug\net6.0\example002_helloUser.AssemblyInfoInputs.cache
+D:\Обучение IT\1 четверть\5.Знакомство с языками программирования\1.Лекция 1. Знакомство с языком программирования C#\examples\example002_helloUser\obj\Debug\net6.0\example002_helloUser.AssemblyInfo.cs
+D:\Обучение IT\1 четверть\5.Знакомство с языками программирования\1.Лекция 1. Знакомство с языком программирования C#\examples\example002_helloUser\obj\Debug\net6.0\example002_helloUser.csproj.CoreCompileInputs.cache
+D:\Обучение IT\1 четверть\5.Знакомство с языками программирования\1.Лекция 1. Знакомство с языком программирования C#\examples\example002_helloUser\obj\Debug\net6.0\example002_helloUser.dll
+D:\Обучение IT\1 четверть\5.Знакомство с языками программирования\1.Лекция 1. Знакомство с языком программирования C#\examples\example002_helloUser\obj\Debug\net6.0\refint\example002_helloUser.dll
+D:\Обучение IT\1 четверть\5.Знакомство с языками программирования\1.Лекция 1. Знакомство с языком программирования C#\examples\example002_helloUser\obj\Debug\net6.0\example002_helloUser.pdb
+D:\Обучение IT\1 четверть\5.Знакомство с языками программирования\1.Лекция 1. Знакомство с языком программирования C#\examples\example002_helloUser\obj\Debug\net6.0\example002_helloUser.genruntimeconfig.cache
+D:\Обучение IT\1 четверть\5.Знакомство с языками программирования\1.Лекция 1. Знакомство с языком программирования C#\examples\example002_helloUser\obj\Debug\net6.0\ref\example002_helloUser.dll
